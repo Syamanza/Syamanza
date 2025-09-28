@@ -27,7 +27,7 @@ Sent data to a cloud/server for real-time access using built-in Wi-Fi on ESP8266
 
 ### PENDETEKSI BERITA HOAX DENGAN KEMAMPUAN AI
 - AI Algorithm with machine learning process
-- Detection of Hoax with Ai
+- Detection of Hoax with AI
 
 # Achievement & Learning
 - Learning IoT by using TCS230 color censor  
