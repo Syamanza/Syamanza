@@ -18,12 +18,12 @@
 
 ### 📂 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
+| Project | Description |
+| :--- | :--- |
 | **Gudangin Aja** | A web-based inventory management system designed to streamline stock recording with secure CRUD operations.
 | **Hoax News Detector** | AI-powered web app that detects fake news in real-time by integrating NLP models with a RESTful backend.
 | **Water Monitor IoT** | A sustainable home system monitoring water quality and temperature, visualized via a web dashboard.
-| **Sign Language Recognition** | Developed a CNN Deep Learning model to recognize hand gestures, implementing image preprocessing for high accuracy. | `Python`, `CNN`, `Computer Vision` |
+| **Sign Language Recognition** | Developed a CNN Deep Learning model to recognize hand gestures, implementing image preprocessing for high accuracy.
 
 # Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syamanza-fikri-aprino-pasaribu-0320b5299)
