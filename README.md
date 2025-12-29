@@ -2,10 +2,8 @@
 
 ### 👋 Hi, I'm Syamanza Fikri Aprino Pasaribu!
  Computer Science Student 🎓 [BINUS UNIVERSITY](https://binus.ac.id/), Bandung<br/>
- I'm passionate building scalable infrastructure, automation, and modern cloud technologies.
-Actively learning and exploring Cloud Engineering, DevOps, Containerization, and CI/CD Pipelines.
-Currently seeking: **Cloud Engineer / DevOps Engineer / Software Engineer**
-
+ I'm passionate about bridging the gap between software development and cloud infrastructure. Currently focusing on **Software Engineering**, **Web Development**, and building scalable systems. Currently Looking for Internship opportunities in **Software Engineer** and **Web Development**.
+ 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -18,23 +16,14 @@ Currently seeking: **Cloud Engineer / DevOps Engineer / Software Engineer**
 ---
 [![](https://visitcount.itsvg.in/api?id=Syamanza&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Featured Project
-### System Sensor Detection Tool Information Changes in Color and Temperature Sustainable Home Environment Water
-- Sensor Selection & Calibration
-Used TCS230 color sensor, LED-Photodiode, DS18B20 (temperature), and turbidity sensors. Sensors were calibrated using known water samples to ensure accurate color detection.
-- Signal Processing & AI Model
-Converted sensor pulses into RGB values, applied machine learning (KNN, SVM, Decision Tree, Random Forest) to classify water quality.
-- IoT Integration
-Sent data to a cloud/server for real-time access using built-in Wi-Fi on ESP8266.
+### 📂 Featured Projects
 
-### PENDETEKSI BERITA HOAX DENGAN KEMAMPUAN AI
-- AI Algorithm with machine learning process
-- Detection of Hoax with AI
-
-# Achievement & Learning
-- Learning IoT by using TCS230 color censor  
-- front-end developer
-- Building a AI Hoax detector project
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Gudangin Aja** | A web-based inventory management system designed to streamline stock recording with secure CRUD operations.
+| **Hoax News Detector** | AI-powered web app that detects fake news in real-time by integrating NLP models with a RESTful backend.
+| **Water Monitor IoT** | A sustainable home system monitoring water quality and temperature, visualized via a web dashboard.
+| **Sign Language Recognition** | Developed a CNN Deep Learning model to recognize hand gestures, implementing image preprocessing for high accuracy. | `Python`, `CNN`, `Computer Vision` |
 
 # Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syamanza-fikri-aprino-pasaribu-0320b5299)
